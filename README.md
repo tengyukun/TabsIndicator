@@ -1,7 +1,7 @@
 # AlphaTabsIndicator
 高仿微信底部状态栏的轻量级库，适用多数底部状态栏应用需求
 ## 摘要
-仿微信底部tab标签，滑动的时候颜色渐变，增加角标功能, 使用极其简单，只需要两行代码。
+仿微信底部tab标签，滑动的时候颜色渐变，增加角标功能, 使用极其简单，只需要两行代码
 
 
 ## 动画
@@ -37,13 +37,13 @@ dependencies {
 
 #### 布局使用
 ```
-	        <com.yinglan.alphatabs.AlphaTabsIndicator
+	        <com.tengyukun.alphatabs.AlphaTabsIndicator
                 android:id="@+id/alphaIndicator"
                 android:layout_width="match_parent"
                 android:layout_height="55dp"
                 android:orientation="horizontal">
 
-                <com.yinglan.alphatabs.AlphaTabView
+                <com.tengyukun.alphatabs.AlphaTabView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
@@ -58,7 +58,7 @@ dependencies {
                     app:badgeBackgroundColor=""
                     app:paddingTexwithIcon=""/>
 
-                <com.yinglan.alphatabs.AlphaTabView
+                <com.tengyukun.alphatabs.AlphaTabView
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
@@ -76,7 +76,7 @@ dependencies {
                     、、、、
                     、、、、
 
-            </com.yinglan.alphatabs.AlphaTabsIndicator>                                //模式
+            </com.tengyukun.alphatabs.AlphaTabsIndicator>                                //模式
 ```
 #### 功能与参数定义
 
