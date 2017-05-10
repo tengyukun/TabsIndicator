@@ -3,8 +3,6 @@
 ## 摘要
 仿微信底部tab标签，滑动的时候颜色渐变，增加角标功能, 使用极其简单，只需要两行代码。
 
-## 英文文档
-[View English Documents](https://github.com/yingLanNull/AlphaTabsIndicator)
 
 ## 动画
 ![1](https://github.com/yingLanNull/AlphaTabsIndicator/blob/master/show/show.gif)
